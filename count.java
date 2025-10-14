@@ -39,7 +39,7 @@ public class Unique {
             {
                 if(wordCount.get(i).equals(allWord.get(j)))
                 {
-                    count = count +1;
+                    count = count++;
                 }
             }
             len[i] = count;
