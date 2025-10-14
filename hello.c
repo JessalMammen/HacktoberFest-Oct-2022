@@ -3,5 +3,5 @@ int main(){
 
 printf("Hello World");
   int count = 20;
-return 0;
+return count;
 }
